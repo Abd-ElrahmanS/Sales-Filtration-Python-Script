@@ -1,5 +1,6 @@
 Explanation and Documentation of The Python Script
 How the Script Works:
+
 1.	File Handling and Organization:
 •	The script begins by scanning a designated source directory for Excel files that need processing. Each file is identified by specific naming conventions ('Report.xlsx' and 'Final.xlsx').
 •	After processing, the files are moved from the source directory to a destination directory to maintain organization and avoid reprocessing the same files.
